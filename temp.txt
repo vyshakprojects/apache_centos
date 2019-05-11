@@ -1,0 +1,6 @@
+NameVirtualHost *:80
+
+<VirtualHost *:80>
+    ServerName domain
+    DocumentRoot /var/www/html/domain/
+</VirtualHost>
