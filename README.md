@@ -1,6 +1,8 @@
 # apache_centos
+
+# This script will install Apache on the centos server
+
 Run ./script.sh
-This script will install Apache on the centos server
 
 #Author Information
 
